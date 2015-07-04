@@ -16,7 +16,7 @@ $ npm install --save inch
 var inch = require('inch');
 
 console.log(inch(5));
-//=> {cm: 12.7, yd: 0.13888888900000002, ft: 0.41666666650000006}
+//=> {cm: 12.7, ft: 0.41666666650000006, yd: 0.13888888900000002}
 
 console.log(inch(5).cm);
 //=> 12.7
