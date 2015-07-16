@@ -1,6 +1,6 @@
 {
   "name": "inch",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Convert inch to cm, ft and yd.",
   "license": "MIT",
   "repository": "gillstrom/inch",
